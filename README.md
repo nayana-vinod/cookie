@@ -5,7 +5,10 @@
 <div>
   <h4>Topic:</h4>
   <p>Improvement Of Mental Health. We aim to provide a user-friendly and pleasant platform for people to improve their mental health free of cost. </p>
- </div>
+  <a href="https://github.com/enchantedfirefly/cookie/issues" style="margin-right:10%"><img alt="GitHub issues" src="https://img.shields.io/github/issues/enchantedfirefly/cookie?color=%23E588A3"></a>
+  <a href="https://github.com/enchantedfirefly/cookie/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/enchantedfirefly/cookie?color=%23E588A3"></a>
+  <a href="https://github.com/enchantedfirefly/cookie/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/enchantedfirefly/cookie?color=%23E588A3"></a>
+  <a href="https://github.com/enchantedfirefly/cookie/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/enchantedfirefly/cookie?color=%23E588A3"></a></div>
  <hr>
 
 <h3> Prototype for GHCI'20, Hackathon by Skillenza </h3>
