@@ -28,8 +28,11 @@
  
  <div>
   <h3>🎗️Introduction</h3>
-  <p>We have developed the application using flutter and ARcore such that it will be available to all android users.We will be implementing the AR puppy using the inbuilt phone camera itself.A chatbot is enabled which lets the users chat with the puppy, which is developed using dialogflow.Also, our application has been developed to provide the best user experience using animation and 3D modelling using Blender.</p>
-  
+  <p>We have developed the application using flutter and ARcore such that it will be available for all android users. We will be implementing the AR puppy using the inbuilt phone camera itself. A chatbot will be enabled to let the users chat with the puppy, using Dialogflow. Also, our application will provide the best user experience with animation and 3D modelling using Blender.</p>
+
+  <h4> Our Idea </h4>
+  <p>The world is going through a tough time. To fight this battle against the novel coronavirus, each and everyone must stay healthy, not just physically but both mentally and emotionally. Mental Health is an untouched topic which we think, should be given higher importance, especially during these dire situations and mundane circumstances. According to the United Nations, depression is ranked third in the global burden of disease and is projected to rank first in 2030. In the Post-COVID world, mental health is going to become a grave issue, and hence we would like to address it as early as possible.</p>
+
   <h4>Tech Stack</h4>
   <ul>
   <li>Flutter as the development environment</li>
@@ -39,7 +42,35 @@
   <li>Dialogflow as the framework for NLP</li>
   <li>Firebase as the database</li>
   
+ <div>
+  <h3>Requirements</h3>
+  <p> Not Available right now </p>
 
+ <div>
+  <h3>Installation</h3>
+  <p> Not Available right now </p>
 
+ <div>
+  <h3>Recommended Modules</h3>
+  <p> Not Available right now </p>
+
+ <div>
+  <h3>Configurations</h3>
+  <p> Not Available right now </p>
+
+ <div>
+  <h3>Troubleshooting</h3>
+  <p> Not Available right now </p>
+
+ <div>
+  <h3>FAQs</h3>
+  <p> Not Available right now </p>
+
+ <div>
+  <h3>The Team: Coding_Bytes</h3>
+   <ul>
+  <li>[Elizabeth Mary Mathew](https://github.com/Elizabeth-Mathew1)</li>
+  <li><a href="https://github.com/enchantedfirefly">Nayana Vinod</a></li>
+  <li>Vishnumaya S Unni</li>
 
 
