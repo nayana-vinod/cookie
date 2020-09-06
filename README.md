@@ -83,7 +83,7 @@
   <li> Will the application store our personal data safe and secure?
   <ul>
   <li> Absolutely. We don’t misuse any kinds of user’s data for our publicity or advertising. It is completely free of expense with a sole purpose and full focus on the betterment of the mental health of the people around the world. </li>
-  <li>However, we require data to personalize Cookie according to the user’s situation and condition. We also ensure, in case if the users do not want to disclose any kind of information they can turn this feature off.<li>
+  <li>However, we require data to personalize Cookie according to the user’s situation and condition. We also ensure, in case if the users do not want to disclose any kind of information they can turn this feature off.</li>
   <li> So, you can use Cookie without any personalized features as a normal application only when in time of need or requirement.</li>
   </ul>
   </li>
