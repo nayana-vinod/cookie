@@ -55,8 +55,7 @@
   
  <div>
   <h3>Installation📝</h3>
-  <body> #Currently by forking and cloning the code from GitHub you will be able to run the application.
-  #Fully functioning application will be readily available in the playstore in the coming future.
+  <body> #Currently by forking and cloning the code from GitHub you will be able to run the application. Fully functioning application will be readily available in the playstore in the coming future.
   </body>
 
  <div>
