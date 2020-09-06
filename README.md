@@ -19,16 +19,16 @@
   <li>Requirements</li>
   <li>Installation</li>
   <li>Recommended Modules</li>
-  <li>Installation</li>
   <li>Configuration</li>
   <li>Trouble Shooting</li>
   <li>FAQ</li>
+  <li>The Team<li>
  </ol>
  <hr>
  
  <div>
   <h3>🎗️Introduction</h3>
-  <p>We have developed the application using flutter and ARcore such that it will be availavle to all android users.We will be implementing the AR puppy using the inbuilt phone came itself.A chatbot is enabled which lets the users chat with the puppy, which is developed using dialogflow.Also, our application has been developed to provide the best user experience using animation and 3D modelling using Blender.</p>
+  <p>We have developed the application using flutter and ARcore such that it will be available to all android users.We will be implementing the AR puppy using the inbuilt phone camera itself.A chatbot is enabled which lets the users chat with the puppy, which is developed using dialogflow.Also, our application has been developed to provide the best user experience using animation and 3D modelling using Blender.</p>
   
   <h4>Tech Stack</h4>
   <ul>
