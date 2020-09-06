@@ -22,7 +22,7 @@
   <li>Configuration</li>
   <li>Trouble Shooting</li>
   <li>FAQ</li>
-  <li>The Team<li>
+  <li>The Team</li>
  </ol>
  <hr>
  
