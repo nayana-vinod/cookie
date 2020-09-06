@@ -55,8 +55,9 @@
   
  <div>
   <h3>Installation📝</h3>
-  <textarea> #Currently by forking and cloning the code from GitHub you will be able to run the application.
-             #Fully functioning application will be readily available in the playstore in the coming future.
+  <body> #Currently by forking and cloning the code from GitHub you will be able to run the application.
+  #Fully functioning application will be readily available in the playstore in the coming future.
+  </body>
 
  <div>
   <h3>Recommended Modules📋</h3>
@@ -97,7 +98,7 @@
  <div>
   <h3>The Team: Coding_Bytes💛💛💛</h3>
    <ul>
-  <li><a href="https://github.com/Elizabeth-Mathew1">Elizabeth Mary Mathew</a>: You can reach me at <a href= <a href = "mailto: 4elizabethcanfly@gmail.com"> 4elizabethcanfly@gmail.com </a>or on <a href="https://www.linkedin.com/in/elizabeth-mathew-4063b5195/">LinkedIn</a></li>
+  <li><a href="https://github.com/Elizabeth-Mathew1">Elizabeth Mary Mathew</a>: You can reach me at <a href ="mailto: 4elizabethcanfly@gmail.com">4elizabethcanfly@gmail.com </a>or on <a href="https://www.linkedin.com/in/elizabeth-mathew-4063b5195/">LinkedIn</a></li>
   <li><a href="https://github.com/enchantedfirefly">Nayana Vinod</a>: You can reach me at <a href="mailto: nayanavinod13@gmail.com">nayanavinod13@gmail.com</a> or on <a href="https://www.linkedin.com/in/nayana-vinod-b0a6791a5/">LinkedIn</a></li>
   <li><a href="https://github.com/Vishnumaya-S-Unni">Vishnumaya S Unni</a>: You can reach me at <a href="mailto: vishnumaya.s.unni@gmail.com">vishnumaya.s.unni@gmail.com </a> or on <a href="https://www.linkedin.com/in/vishnumayasunni/">LinkedIn</a></li>
  </ul>
