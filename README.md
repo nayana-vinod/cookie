@@ -33,7 +33,7 @@
  <hr>
  
  <div>
-  <h3>🎗️Introduction</h3>
+  <h3>Introduction📜</h3>
   <p>We have developed the application using flutter and ARcore such that it will be available for all android users. We will be implementing the AR puppy using the inbuilt phone camera itself. A chatbot will be enabled to let the users chat with the puppy, using Dialogflow. Also, our application will provide the best user experience with animation and 3D modelling using Blender.</p>
 
   <h4>👨🏽‍💻 Tech Stack 👩🏽‍💻</h4>
@@ -47,24 +47,23 @@
   </ul>
 
  <div>
-  <h3>Requirements📝📌</h3>
+  <h3>Requirements📌</h3>
   <ul>
   <li> Android supporting smart device </li>
   <li> AR supporting device </li>
   <li> GitHub installed </li>
   
  <div>
-  <h3>Installation</h3>
+  <h3>Installation📝</h3>
   <textarea> #Currently by forking and cloning the code from GitHub you will be able to run the application.
              #Fully functioning application will be readily available in the playstore in the coming future.
-  </textarea>
 
  <div>
   <h3>Recommended Modules📋</h3>
   <p> Basic knowledge in usage of technologies like AR and Chatbots in an application will help you get familarised with the features much easier and quicker.</p>
 
  <div>
-  <h3>Configurations</h3>
+  <h3>Configurations✔️</h3>
   <p> As of now, no configurations required.</p>
 
  <div>
