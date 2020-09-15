@@ -1,0 +1,9 @@
+{
+  "id": "bbd316f0-b73e-4980-a986-1da1da9d013b",
+  "name": "get_relax",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,70 @@
+{
+  "id": "16aa747a-1eea-424b-9267-1f5c2eee48d0",
+  "name": "positive_feelings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "positive_feelings-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "274d529b-dc7d-4d50-b6dc-d9f8cefb5128",
+          "name": "positive",
+          "required": false,
+          "dataType": "@positive",
+          "value": "$positive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "11f12bb0-bcf8-44e5-adc3-5ecd7f4ce56a",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is great! I am so happy for you! Do you want me to do anything for you?",
+            "Woahh! Woof Woof! That\u0027s greatttt! Can I do something for you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

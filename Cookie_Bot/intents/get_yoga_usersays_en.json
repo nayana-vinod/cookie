@@ -1,0 +1,87 @@
+[
+  {
+    "id": "bb152e2d-5a6d-4e5b-81c6-b2009ba0063f",
+    "data": [
+      {
+        "text": "It would be nice to ",
+        "userDefined": false
+      },
+      {
+        "text": "workout",
+        "meta": "@get_relax",
+        "alias": "get_relax",
+        "userDefined": true
+      },
+      {
+        "text": " a little bit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f4c4fb2-fe40-4c42-9b9c-844504a0604a",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "meditate",
+        "meta": "@get_relax",
+        "alias": "get_relax",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1acfecb-b02a-4ae7-ac2f-c59c098d67a1",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "want",
+        "meta": "@get_cookie_sug",
+        "alias": "get_cookie_sug",
+        "userDefined": false
+      },
+      {
+        "text": " to do some ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "meta": "@get_relax",
+        "alias": "get_relax",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

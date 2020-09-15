@@ -1,0 +1,123 @@
+[
+  {
+    "id": "575ff4ad-70eb-4e34-8174-bb9e0d7bd1f2",
+    "data": [
+      {
+        "text": "I would like to watch some ",
+        "userDefined": false
+      },
+      {
+        "text": "films",
+        "meta": "@get_movies",
+        "alias": "get_movies",
+        "userDefined": false
+      },
+      {
+        "text": "...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f18a5de0-f4b1-49f9-858d-17e6795aed4d",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "want",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to binge-watch ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@get_movies",
+        "alias": "get_movies",
+        "userDefined": false
+      },
+      {
+        "text": " for a while. Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "anything in your mind?",
+        "meta": "@get_cookie_sug",
+        "alias": "get_cookie_sug1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbb85f19-9858-46cb-aa58-7a5284fd9eaf",
+    "data": [
+      {
+        "text": "I feel like watching some ",
+        "userDefined": false
+      },
+      {
+        "text": "great",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "films",
+        "meta": "@get_movies",
+        "alias": "get_movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03c05595-78dd-446d-add2-48fdb4855e6e",
+    "data": [
+      {
+        "text": "Would you suggest me some feel-",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@get_movies",
+        "alias": "get_movies",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

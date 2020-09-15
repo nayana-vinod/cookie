@@ -1,0 +1,9 @@
+{
+  "id": "98316973-e9c9-4578-8be8-de7ea557bdbd",
+  "name": "get_cookie_sug",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

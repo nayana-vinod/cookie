@@ -1,0 +1,76 @@
+[
+  {
+    "id": "26702bde-2e7c-4987-a394-98f0495de540",
+    "data": [
+      {
+        "text": "Woof Woof Bye Bye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0c32193-9ee6-474f-8e46-ddad59fe4c61",
+    "data": [
+      {
+        "text": "Buh-bye!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04933571-b15b-4ac6-9f9b-8cfe9de9d2b1",
+    "data": [
+      {
+        "text": "byeeeeeeee!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c2dcc6c-c28c-4822-9cd3-3715031f9a53",
+    "data": [
+      {
+        "text": "byebye!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce8be2e-f24b-4bf6-bd0d-6bce6a60e64e",
+    "data": [
+      {
+        "text": "oh ",
+        "userDefined": false
+      },
+      {
+        "text": "okay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

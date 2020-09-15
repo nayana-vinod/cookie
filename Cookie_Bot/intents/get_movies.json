@@ -1,0 +1,66 @@
+{
+  "id": "7e34a6b6-bd26-4438-9fd3-5f0f290e878a",
+  "name": "get_movies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "99f4b0e1-6893-42d4-9dca-fe3036824b19",
+          "name": "get_movies",
+          "required": false,
+          "dataType": "@get_movies",
+          "value": "$get_movies",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e6762215-9e4c-40e6-8925-464c67aacb03",
+          "name": "get_cookie_sug1",
+          "required": false,
+          "dataType": "@get_cookie_sug",
+          "value": "$get_cookie_sug1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That would be really chill! Try watching \"Frozen\" for a good laugh and a sweet story! Haha!",
+            "Very cool! I would suggest you to watch \"Gravity\".",
+            "You should definitely watch Forrest Gump!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

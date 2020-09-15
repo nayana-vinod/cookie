@@ -1,0 +1,9 @@
+{
+  "id": "9645cd34-f36a-4905-9ec7-7861ccb6f45c",
+  "name": "get_movies",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cf1e4032-a441-4cf5-b87b-333b2033a6aa",
+  "parentId": "75355bcd-9db3-415f-a5d1-cfb3f4decbb0",
+  "rootParentId": "75355bcd-9db3-415f-a5d1-cfb3f4decbb0",
+  "name": "negative_feelings - yes",
+  "auto": true,
+  "contexts": [
+    "negative_feelings-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "negative_feelings.negative_feelings-yes",
+      "affectedContexts": [
+        {
+          "name": "help",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, tell me what do you want me to do?",
+            "Just tell what you need... I am here to help you!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

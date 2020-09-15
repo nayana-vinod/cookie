@@ -1,0 +1,9 @@
+{
+  "id": "264c8ba4-dcab-49d6-8451-226fab1589b5",
+  "name": "get_videos",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

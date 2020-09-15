@@ -1,0 +1,210 @@
+[
+  {
+    "id": "3f906aa8-c439-4b25-9695-cb0bb4adfe65",
+    "data": [
+      {
+        "text": "I am kinda feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d254e24-801d-40bf-9fa0-5cd70546ea93",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "exhausted",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa4177dc-883d-4c8f-a82c-49fcf5cd3280",
+    "data": [
+      {
+        "text": "I am really ",
+        "userDefined": false
+      },
+      {
+        "text": "tired",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebc15d68-26d2-4209-9b2c-fdeb8a1883af",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "unhappy",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9be62d3f-3b0a-41e1-b440-5a1ccdb48a3d",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "240e3d95-e013-4b0b-952e-117fb12e26f8",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12c69c77-3df7-48cb-ab1d-b3c8444d9b1f",
+    "data": [
+      {
+        "text": "I feel like ",
+        "userDefined": false
+      },
+      {
+        "text": "crying",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59ed4b88-1e8e-4a75-ac63-dfd86bc65403",
+    "data": [
+      {
+        "text": "I had a veryyyy ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": false
+      },
+      {
+        "text": " day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7354da9-b9c5-452a-8586-6f71cd1fbd2e",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "tired",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f31f845f-50b1-4e20-bc95-cfaf875a0fbc",
+    "data": [
+      {
+        "text": "I am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "low",
+        "meta": "@negative",
+        "alias": "negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "65a47609-f12c-4863-a9a9-93f31c909670",
+  "parentId": "b94a2bd8-4ee6-4b8a-ba9a-c5f58e0de22f",
+  "rootParentId": "b94a2bd8-4ee6-4b8a-ba9a-c5f58e0de22f",
+  "name": "Default Welcome Intent - no",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-no-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, Have a great day!",
+            "Have a nice day! Woof! :)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

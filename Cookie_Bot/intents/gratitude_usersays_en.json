@@ -1,0 +1,67 @@
+[
+  {
+    "id": "332b9a52-b6f4-4138-aad4-d8c1a239bb68",
+    "data": [
+      {
+        "text": "Thank you Cookie!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "323ab3b3-5cc0-472f-b0ba-3a7c5dbb7cb8",
+    "data": [
+      {
+        "text": "I am so grateful!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6c287fa-a5e3-467a-849c-04a307c3e723",
+    "data": [
+      {
+        "text": "Thank you so much!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "181516f7-140d-43bb-8895-b5e79e2b0f4e",
+    "data": [
+      {
+        "text": "Thank you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9805d196-9935-4dac-9a79-55933d9f174e",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

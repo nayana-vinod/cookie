@@ -1,0 +1,75 @@
+{
+  "id": "75355bcd-9db3-415f-a5d1-cfb3f4decbb0",
+  "name": "negative_feelings",
+  "auto": true,
+  "contexts": [
+    "yes",
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "negative_feelings-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "52bc4b40-5774-4dcd-9527-67491e857582",
+          "name": "negative",
+          "required": true,
+          "dataType": "@negative",
+          "value": "$negative",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0a79d195-7d58-4aab-9859-a9d639a1acea",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I hope you get better... What can I do for you?",
+            "Everything will be fine. Do you want me to do something for you?",
+            "Aww sweetie, everything will get better. Can I do something to make you feel better?",
+            "I hope you get better soon... Is there anything I can do for you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

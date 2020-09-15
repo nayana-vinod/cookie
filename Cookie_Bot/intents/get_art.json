@@ -1,0 +1,51 @@
+{
+  "id": "785a0e73-8e03-41da-a562-474ea9d90ac7",
+  "name": "get_art",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0abcc69a-0822-479b-b55c-1c1657b7057a",
+          "name": "get_art",
+          "required": false,
+          "dataType": "@get_art",
+          "value": "$get_art",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That is a really nice thought! Pinterest will be a nice place to get creative designs!",
+            "Pinterest might help you come up with creative ideas!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

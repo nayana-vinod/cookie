@@ -1,0 +1,113 @@
+[
+  {
+    "id": "d3c716d9-7974-49c3-9ce9-837965c90403",
+    "data": [
+      {
+        "text": "I would be really nice to hear some good ",
+        "userDefined": false
+      },
+      {
+        "text": "words",
+        "meta": "@get_motivation",
+        "alias": "get_motivation",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64752744-941f-4101-996c-959ffa6583f6",
+    "data": [
+      {
+        "text": "Can you ",
+        "userDefined": false
+      },
+      {
+        "text": "motivate",
+        "meta": "@get_motivation",
+        "alias": "get_motivation",
+        "userDefined": false
+      },
+      {
+        "text": " me with some ",
+        "userDefined": false
+      },
+      {
+        "text": "quotes",
+        "meta": "@get_motivation",
+        "alias": "get_motivation",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff97a310-629e-4425-b42f-3a21aa4eae1b",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "think",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need some ",
+        "userDefined": false
+      },
+      {
+        "text": "inspiration",
+        "meta": "@get_motivation",
+        "alias": "get_motivation",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1f7f361-472c-4a26-8cc8-d847d87b6bb4",
+    "data": [
+      {
+        "text": "I need some ",
+        "userDefined": false
+      },
+      {
+        "text": "motivation",
+        "meta": "@get_motivation",
+        "alias": "get_motivation",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

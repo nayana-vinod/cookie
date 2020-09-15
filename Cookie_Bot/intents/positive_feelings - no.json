@@ -1,0 +1,41 @@
+{
+  "id": "df316f2e-79b7-4b4c-9ad6-1d374a4328b6",
+  "parentId": "16aa747a-1eea-424b-9267-1f5c2eee48d0",
+  "rootParentId": "16aa747a-1eea-424b-9267-1f5c2eee48d0",
+  "name": "positive_feelings - no",
+  "auto": true,
+  "contexts": [
+    "positive_feelings-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "positive_feelings.positive_feelings-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright then! Have a great day, my friend! Woof Woof!",
+            "Okies! Stay Happy!",
+            "Okay great! Happiness suits you!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

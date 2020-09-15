@@ -1,0 +1,56 @@
+[
+  {
+    "value": "sad",
+    "synonyms": [
+      "sad",
+      "depressed",
+      "low",
+      "unhappy",
+      "crying",
+      "breakdown",
+      "mental breakdown",
+      "disappointed",
+      "bad",
+      "not good",
+      "very bad",
+      "really bad",
+      "not okay",
+      "feeling low"
+    ]
+  },
+  {
+    "value": "die",
+    "synonyms": [
+      "die",
+      "giving up",
+      "burden",
+      "suicide"
+    ]
+  },
+  {
+    "value": "numb",
+    "synonyms": [
+      "numb",
+      "no feelings",
+      "can\u0027t feel"
+    ]
+  },
+  {
+    "value": "useless",
+    "synonyms": [
+      "useless",
+      "stupid",
+      "idiot",
+      "garbage",
+      "trash"
+    ]
+  },
+  {
+    "value": "Tired",
+    "synonyms": [
+      "Tired",
+      "Off",
+      "Exhausted"
+    ]
+  }
+]

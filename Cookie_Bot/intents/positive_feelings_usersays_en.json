@@ -1,0 +1,173 @@
+[
+  {
+    "id": "2539c428-33ce-4c3f-a75d-637c1fc66fa6",
+    "data": [
+      {
+        "text": "I am in ",
+        "userDefined": false
+      },
+      {
+        "text": "cloud nine",
+        "meta": "@positive",
+        "alias": "positive",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cad14c22-111d-4415-a6c3-2e1b02811381",
+    "data": [
+      {
+        "text": "I feel like I am ",
+        "userDefined": false
+      },
+      {
+        "text": "on the moon",
+        "meta": "@positive",
+        "alias": "positive",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae61f50a-4df0-4190-a1cd-ecb58969f291",
+    "data": [
+      {
+        "text": "I am extremely ",
+        "userDefined": false
+      },
+      {
+        "text": "high",
+        "meta": "@positive",
+        "alias": "positive",
+        "userDefined": false
+      },
+      {
+        "text": "! Hahaha!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f91c6adb-ff62-40fc-8698-54051d79cbd4",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "excited",
+        "meta": "@positive",
+        "alias": "positive",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86ee60a0-cdf5-4be1-9e99-dc2477188d7d",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "delighted",
+        "meta": "@positive",
+        "alias": "positive",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "283d9100-3ce3-4f10-895c-a169d374fa31",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@positive",
+        "alias": "positive",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5ec45c0-34c9-4479-9a0e-4172a73ce5d6",
+    "data": [
+      {
+        "text": "I am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@positive",
+        "alias": "positive",
+        "userDefined": false
+      },
+      {
+        "text": "!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

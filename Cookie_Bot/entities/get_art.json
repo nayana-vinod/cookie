@@ -1,0 +1,9 @@
+{
+  "id": "0617442d-ed9f-442e-9ae2-fbe7728c12fa",
+  "name": "get_art",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

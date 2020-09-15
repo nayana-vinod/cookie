@@ -1,0 +1,32 @@
+[
+  {
+    "value": "good",
+    "synonyms": [
+      "good",
+      "okay",
+      "great",
+      "awesome",
+      "amazing",
+      "excited",
+      "happy",
+      "cool",
+      "fine"
+    ]
+  },
+  {
+    "value": "productive",
+    "synonyms": [
+      "productive",
+      "energetic",
+      "high"
+    ]
+  },
+  {
+    "value": "Delighted",
+    "synonyms": [
+      "Delighted",
+      "Cloud nine",
+      "On the moon"
+    ]
+  }
+]

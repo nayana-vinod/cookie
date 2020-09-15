@@ -1,0 +1,54 @@
+{
+  "id": "c0cad5cb-d264-4386-b538-94bd62172f3e",
+  "name": "get_quotes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d7bf9f1a-cd51-4ad4-9258-8804c05ea4a3",
+          "name": "get_motivation",
+          "required": false,
+          "dataType": "@get_motivation",
+          "value": "$get_motivation",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Always remember what Dumbledore once said, \"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.\"",
+            "Dumbledore once said, \"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.\"",
+            "“All our dreams can come true, if we have the courage to pursue them.” – Walt Disney. And that is why Cookie wants you to stay happy and turn your dreams into reality!",
+            "“Life is like a box of chocolates, you never know what you gonna get.” - Forrest Gump",
+            "“Oh yes, the past can hurt. But you can either run from it or learn from it.” - The Lion King"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "4adfec86-ea26-41e3-b97f-1a4e3d467cb0",
+  "parentId": "16aa747a-1eea-424b-9267-1f5c2eee48d0",
+  "rootParentId": "16aa747a-1eea-424b-9267-1f5c2eee48d0",
+  "name": "positive_feelings - yes",
+  "auto": true,
+  "contexts": [
+    "positive_feelings-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "positive_feelings.positive_feelings-yes",
+      "affectedContexts": [
+        {
+          "name": "happyhelp",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great!!! What do you want me to do?!",
+            "Awesome! Tell me what you need!",
+            "That is so cool! So, what can I do for you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "274d15a2-2b7f-4435-9363-c5e0e2a6aecc",
+  "name": "get_motivation",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

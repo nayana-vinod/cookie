@@ -1,0 +1,107 @@
+[
+  {
+    "id": "94214e18-56b4-4c2e-a220-48394612ac33",
+    "data": [
+      {
+        "text": "Oh god! I need professional help!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38a44da3-15d0-4e36-aa46-c3010e42d211",
+    "data": [
+      {
+        "text": "This is an ",
+        "userDefined": false
+      },
+      {
+        "text": "emergency",
+        "meta": "@get_emergency",
+        "alias": "get_emergency",
+        "userDefined": false
+      },
+      {
+        "text": "! Help me!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a7c9188-d9a9-4cb8-bb33-7345eb78206f",
+    "data": [
+      {
+        "text": "I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "suicidal thoughts",
+        "meta": "@get_emergency",
+        "alias": "get_emergency",
+        "userDefined": false
+      },
+      {
+        "text": "...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23fa1103-2029-40ab-9f13-fa243698cb26",
+    "data": [
+      {
+        "text": "I really need the ",
+        "userDefined": false
+      },
+      {
+        "text": "emergency",
+        "meta": "@get_emergency",
+        "alias": "get_emergency",
+        "userDefined": false
+      },
+      {
+        "text": " contact now!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "746692a8-0fb4-4bef-8dd2-c4016f0942e1",
+    "data": [
+      {
+        "text": "I need the ",
+        "userDefined": false
+      },
+      {
+        "text": "emergency",
+        "meta": "@get_emergency",
+        "alias": "get_emergency",
+        "userDefined": false
+      },
+      {
+        "text": " help number to fix an appointment with a therapist!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

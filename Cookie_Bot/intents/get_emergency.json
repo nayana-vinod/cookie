@@ -1,0 +1,51 @@
+{
+  "id": "049f2bcb-5407-49c3-9e2b-222ef287e375",
+  "name": "get_emergency",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7d92ecf7-4178-4e76-bd8c-e5b793183336",
+          "name": "get_emergency",
+          "required": false,
+          "dataType": "@get_emergency",
+          "value": "$get_emergency",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh okay, relax! I will find you the best person to help you out! Until then please take some deep breaths!",
+            "Oh okay calm down, it is all good. Just relax, let me see what I can find..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

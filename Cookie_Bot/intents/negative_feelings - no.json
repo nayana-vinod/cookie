@@ -1,0 +1,41 @@
+{
+  "id": "f129a678-4f0b-49ec-9774-e11456e52f26",
+  "parentId": "75355bcd-9db3-415f-a5d1-cfb3f4decbb0",
+  "rootParentId": "75355bcd-9db3-415f-a5d1-cfb3f4decbb0",
+  "name": "negative_feelings - no",
+  "auto": true,
+  "contexts": [
+    "negative_feelings-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "negative_feelings.negative_feelings-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright! Everything will be fine. Remember that, okay? Take care!",
+            "Okay, take care! I hope it gets better!",
+            "This shall pass. Your day will get better. Stay happy :)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

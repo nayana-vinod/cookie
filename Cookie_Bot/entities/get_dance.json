@@ -1,0 +1,9 @@
+{
+  "id": "b6e76235-853b-4601-8adf-d313a5f767af",
+  "name": "get_dance",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

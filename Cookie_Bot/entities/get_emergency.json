@@ -1,0 +1,9 @@
+{
+  "id": "ea15c489-e146-4520-8ea2-312d59fdad0f",
+  "name": "get_emergency",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
