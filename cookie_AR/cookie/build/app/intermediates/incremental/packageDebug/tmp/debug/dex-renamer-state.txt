@@ -1,0 +1,10 @@
+#Sun Oct 04 15:51:02 IST 2020
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=G\:\\Projects\\cookie_bytes\\OCT 4\\flutterARcore\\blender\\cookie\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_0.dex
+base.1=G\:\\Projects\\cookie_bytes\\OCT 4\\flutterARcore\\blender\\cookie\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.0=G\:\\Projects\\cookie_bytes\\OCT 4\\flutterARcore\\blender\\cookie\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex

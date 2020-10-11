@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-31:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a4afe959e59878dd57b24accbfb1d681\jetified-sceneform-ux-1.13.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\342bed0c4defd5450c495ef532290ae7\jetified-core-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\8427fe7c72958e5f47205e46df75661c\jetified-rendering-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:17:1-46:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\56a772d0e147a2bfda48e96bff655148\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\dc0b156ed0358f0ba79f78f1f6eec939\core-ktx-1.3.0-alpha01\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\412798c5ff5129715d71e58ff213e3a7\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\77f37a36a9de7d535709136086997d73\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\41c88a9f96e450bd637ed756ecda85b5\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\2b55f4dd1ddfb477bff2667016cc0a25\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\7d95adf5b88dd1f9089b34bd4d2e8a93\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\36b6b089b86a4b53f161d1de646d1e60\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a8ab871a9f5231b6a4883264b5cb661b\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4d12a5646d4fcc24508ad534e838b595\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\65668fdc6b75dc53c12b7eb5f279be35\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\20031ee5adfcf579518ccf404b3ac5d2\core-1.3.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\02764038100f49e65d9f05bdfdc56969\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0691a1a6c3d055bc7ae9d66ba6bc80fa\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a72cc53d82cf5702357646245a6e016a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\439f22ecfa3eb2cee779567eba299ed4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\89da2d2b13f2717b13dbde907d33a117\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\73dec8f06dda83861b05ec84e654c876\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\598256249c7c77b96135e9aeda8121e5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e5d23450977c2b96e566605cba9e8c80\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:assets:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\42076dcb976b2d900d3508850523a36a\assets-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\cad3fa9a83236b20cced165b5397967a\jetified-sceneform-base-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\48d1ac90f9e679d3d2288199505d13ae\jetified-filament-android-1.13.0\AndroidManifest.xml:2:1-11:12
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:1:1-17:12
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:1:1-17:12
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:5:5-33
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:4:5-51
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:3:5-63
+application
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:13:5-38:19
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-29:19
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-29:19
+MERGED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:30:5-44:19
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\20031ee5adfcf579518ccf404b3ac5d2\core-1.3.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\20031ee5adfcf579518ccf404b3ac5d2\core-1.3.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\20031ee5adfcf579518ccf404b3ac5d2\core-1.3.0-alpha01\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:15:9-31
+	android:icon
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:16:9-43
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:14:9-57
+activity#com.example.cookie.MainActivity
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:17:9-28:20
+	android:launchMode
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:21:13-163
+	android:theme
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#flutterEmbedding
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:31:9-33:33
+	android:value
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:33:13-30
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:32:13-44
+meta-data#com.google.ar.core
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:37:10-81
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-28:40
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-28:40
+	android:value
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:37:55-79
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml:37:21-54
+uses-sdk
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+MERGED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+MERGED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a4afe959e59878dd57b24accbfb1d681\jetified-sceneform-ux-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a4afe959e59878dd57b24accbfb1d681\jetified-sceneform-ux-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\342bed0c4defd5450c495ef532290ae7\jetified-core-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\342bed0c4defd5450c495ef532290ae7\jetified-core-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\8427fe7c72958e5f47205e46df75661c\jetified-rendering-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\8427fe7c72958e5f47205e46df75661c\jetified-rendering-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:26:5-28:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\56a772d0e147a2bfda48e96bff655148\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\56a772d0e147a2bfda48e96bff655148\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\dc0b156ed0358f0ba79f78f1f6eec939\core-ktx-1.3.0-alpha01\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\dc0b156ed0358f0ba79f78f1f6eec939\core-ktx-1.3.0-alpha01\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\412798c5ff5129715d71e58ff213e3a7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\412798c5ff5129715d71e58ff213e3a7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\77f37a36a9de7d535709136086997d73\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\77f37a36a9de7d535709136086997d73\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\41c88a9f96e450bd637ed756ecda85b5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\41c88a9f96e450bd637ed756ecda85b5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\2b55f4dd1ddfb477bff2667016cc0a25\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\2b55f4dd1ddfb477bff2667016cc0a25\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\7d95adf5b88dd1f9089b34bd4d2e8a93\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\7d95adf5b88dd1f9089b34bd4d2e8a93\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\36b6b089b86a4b53f161d1de646d1e60\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\36b6b089b86a4b53f161d1de646d1e60\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a8ab871a9f5231b6a4883264b5cb661b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a8ab871a9f5231b6a4883264b5cb661b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4d12a5646d4fcc24508ad534e838b595\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4d12a5646d4fcc24508ad534e838b595\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\65668fdc6b75dc53c12b7eb5f279be35\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\65668fdc6b75dc53c12b7eb5f279be35\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\20031ee5adfcf579518ccf404b3ac5d2\core-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha01] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\20031ee5adfcf579518ccf404b3ac5d2\core-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\02764038100f49e65d9f05bdfdc56969\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\02764038100f49e65d9f05bdfdc56969\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0691a1a6c3d055bc7ae9d66ba6bc80fa\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0691a1a6c3d055bc7ae9d66ba6bc80fa\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a72cc53d82cf5702357646245a6e016a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a72cc53d82cf5702357646245a6e016a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\439f22ecfa3eb2cee779567eba299ed4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\439f22ecfa3eb2cee779567eba299ed4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\89da2d2b13f2717b13dbde907d33a117\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\89da2d2b13f2717b13dbde907d33a117\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\73dec8f06dda83861b05ec84e654c876\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\73dec8f06dda83861b05ec84e654c876\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\598256249c7c77b96135e9aeda8121e5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\598256249c7c77b96135e9aeda8121e5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e5d23450977c2b96e566605cba9e8c80\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e5d23450977c2b96e566605cba9e8c80\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:assets:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\42076dcb976b2d900d3508850523a36a\assets-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:assets:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\42076dcb976b2d900d3508850523a36a\assets-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\cad3fa9a83236b20cced165b5397967a\jetified-sceneform-base-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\cad3fa9a83236b20cced165b5397967a\jetified-sceneform-base-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\48d1ac90f9e679d3d2288199505d13ae\jetified-filament-android-1.13.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\48d1ac90f9e679d3d2288199505d13ae\jetified-filament-android-1.13.0\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:8:5-44
+INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:8:5-44
+	android:targetSdkVersion
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:8:15-41
+		INJECTED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:10:5-65
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:10:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:15:5-63
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-63
+MERGED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-63
+	android:name
+		ADDED from G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\android\app\src\debug\AndroidManifest.xml:15:19-60
+uses-feature#0x00030000
+ADDED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:35
+	android:glEsVersion
+		ADDED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from [:arcore_flutter_plugin] G:\Projects\cookie_bytes\OCT 4\flutterARcore\blender\cookie\build\arcore_flutter_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-32
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.13.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0800570b4cba568ef445698629ccaf65\core-1.13.0\AndroidManifest.xml:38:13-62
