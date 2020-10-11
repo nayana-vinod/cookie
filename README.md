@@ -39,7 +39,7 @@
   <h4>👨🏽‍💻 Tech Stack 👩🏽‍💻</h4>
   <ul>
   <li>Flutter as the development environment</li>
-  <li>Dart as the programminmg language</li>
+  <li>Dart as the programming language</li>
   <li>ARcore SDK</li>
   <li>Blender for 3D modelling and animation</li>
   <li>Dialogflow as the framework for NLP</li>
@@ -98,7 +98,9 @@
   <h3>The Team: Coding_Bytes💛💛💛</h3>
    <ul>
   <li><a href="https://github.com/Elizabeth-Mathew1">Elizabeth Mary Mathew</a>: You can reach me at <a href ="mailto: 4elizabethcanfly@gmail.com">4elizabethcanfly@gmail.com </a>or on <a href="https://www.linkedin.com/in/elizabeth-mathew-4063b5195/">LinkedIn</a></li>
-  <li><a href="https://github.com/enchantedfirefly">Nayana Vinod</a>: You can reach me at <a href="mailto: nayanavinod13@gmail.com">nayanavinod13@gmail.com</a> or on <a href="https://www.linkedin.com/in/nayana-vinod-b0a6791a5/">LinkedIn</a></li>
+  <li><a href="https://github.com/enchantedfireflyNayana Vinod"</a>: You can reach me at <a href="mailto: nayanavinod13@gmail.com">nayanavinod13@gmail.com</a> or on <a href="https://www.linkedin.com/in/enchantedfireflyLinkedIn"</a></li>
   <li><a href="https://github.com/Vishnumaya-S-Unni">Vishnumaya S Unni</a>: You can reach me at <a href="mailto: vishnumaya.s.unni@gmail.com">vishnumaya.s.unni@gmail.com </a> or on <a href="https://www.linkedin.com/in/vishnumayasunni/">LinkedIn</a></li>
  </ul>
+  
+  <h4><a href="https://youtu.be/KbDUitVFs_g">You can watch our youtube video to get a basic idea about the functioning of our app</h4>
 
