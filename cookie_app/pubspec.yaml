@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  flutter_dialogflow: ^0.1.2
   flutter:
     sdk: flutter
 
@@ -42,6 +43,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/cookie-bfnx-2a96d0486fb7.json
     - images/i2.jpg
     - images/i1.svg
     - images/i3.svg
