@@ -63,15 +63,16 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
-    implementation 'com.google.ar.sceneform.ux:sceneform-ux:1.8.0'
-    implementation 'com.google.ar.sceneform:core:1.8.0'
-    implementation 'com.google.ar.sceneform.animation:1.8.0'
-    implementation 'com.google.ar:core:1.8.0'
+    implementation 'com.google.ar.sceneform.ux:sceneform-ux:1.15.0'
+    implementation 'com.google.ar.sceneform:core:1.15.0'
+    //implementation 'com.google.ar.sceneform.animation:1.15.0'
+    implementation 'com.google.ar:core:1.15.0'
 }
 
-// apply plugin: 'com.google.ar.sceneform.plugin'
+apply plugin: 'com.google.ar.sceneform.plugin'
 
-sceneform.asset('sampledata/cookie_small1.obj',
-                'default'       
-                'sampledata/models/cookie_small1.sfa',        
-                'src/main/assets/cookie_small1')
+sceneform.asset('sampledata/cookie_model_23_12.obj',
+                'default',
+                'sampledata/cookie_model_23_12.sfa',        
+                'src/main/res/raw/cookie_model_23_12',
+                )
