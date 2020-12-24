@@ -1,13 +1,7 @@
-//import 'dart:js';
-
-//import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-//import 'dart:math' as math;
 import 'package:flutter/services.dart';
-// import 'package:path/path.dart' show join;
 import 'package:arcore_flutter_plugin/arcore_flutter_plugin.dart';
 import 'package:vector_math/vector_math_64.dart' as vector;
-//import 'screens/auto_detect_plane.dart';
 
 void main() => runApp(MyApp());
 var arCoreController;
@@ -21,7 +15,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ARCore Flutter Plugin Example',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -69,7 +62,7 @@ loadmesh() async {
 
   arCoreController.loadMesh(
     textureBytes: textureBytes.buffer.asUint8List(),
-    skin3DModelFilename: "cookie_small1.sfb",
+    skin3DModelFilename: "cookie_model_23_12.sfb",
     position: vector.Vector3(0.2, 0, 0),
     rotation: vector.Vector4(0, 0, 0, 0),
   );
